@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Soniya-Lashkari
+- 👀 I’m interested in Front-end designs
+- 😎 I also have Experience about Java, Sql, Html, Css, JavaScript, React js, Bootstrap, Master UI, core Php
+- 🌱 I’m currently learning  Advance React js 
+- 📫 Reach me on E-mail id : lashkarisoniya08@gmail.com
+- 😍 It's all about me let's Connect and know more 🤝
+- Thanku
